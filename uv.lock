@@ -1,0 +1,7 @@
+version = 999
+requires-python = ">=3.10"
+
+[[package]]
+name = "parse-dependencies-failed-repro"
+version = "0.1.0"
+source = { virtual = "." }
